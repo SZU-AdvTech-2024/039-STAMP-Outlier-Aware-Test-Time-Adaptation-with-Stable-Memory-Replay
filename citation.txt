@@ -1,0 +1,7 @@
+@inproceedings{REPO039,
+    author = "Yu, Yongcan and Sheng, Lijun and He, Ran and Liang, Jian",
+    booktitle = "European Conference on Computer Vision",
+    title = "{STAMP: Outlier-Aware Test-Time Adaptation with Stable Memory Replay}",
+    url = "https://api.semanticscholar.org/CorpusID:271328655",
+    year = "2024"
+}
